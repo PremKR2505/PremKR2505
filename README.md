@@ -3,6 +3,7 @@ I am an Engineering Sophomore
 Currently working on my basics of progamming languages.
 I would really appreciate if you would talk with me as I am still in the process of learning and would appreciate any inputs.
 Thanks for visting my profile!
+My mail if you want to contact me: pkex255@gmail.com
 <!--
 **PremKR2505/PremKR2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
