@@ -1,3 +1,5 @@
+<img width="795" height="272" alt="p3banner" src="https://github.com/user-attachments/assets/b12a9341-06f7-434b-a0d1-f2fc701a0b8a" />
+
 ## Hi there 👋
 I am an Engineering Sophomore
 Currently working on my basics of progamming languages.
